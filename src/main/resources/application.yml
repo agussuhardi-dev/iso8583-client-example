@@ -1,0 +1,10 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: iso8583-client-example
+
+
+vars:
+  host: localhost
+  port: 3000
